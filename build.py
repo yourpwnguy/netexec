@@ -38,6 +38,7 @@ def build():
         '--onefile',
         '--output-filename=netexec.exe',
         '--output-dir=dist',
+        '--low-memory',
         '--windows-console-mode=force',
         '--onefile-no-compression',
         '--include-package=nxc',
