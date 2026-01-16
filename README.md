@@ -216,7 +216,9 @@ python build.py
 
 ### Final Thoughts
 
-I know this isn't a complete submission. The task was ambitious and I underestimated how long the Nuitka compilation would take to debug. I spent a lot of time on the output capture mechanism because I thought that was the core technical challenge, but then ran out of time for the compilation part. This took me centuries to compile. Although on the positive side, I actually got more info on Nutika for how to speed up the compilation process. The author was talking about his utility which runs a hinting process. Anyways, that's for some other time as it's not related.
+I know this isn't a complete submission. The task was ambitious and I underestimated how long the Nuitka compilation would take to debug. I spent a lot of time on the output capture mechanism because I thought that was the core technical challenge, but then ran out of time for the compilation part. This took me centuries to compile. 
+
+Although on the positive side, I actually got more info on Nutika for how to speed up the compilation process. The author was talking about his utility which runs a hinting process. Anyways, that's for some other time as it's not related.
 
 If nothing else, the run_netexec() API does work and demonstrates the concept of capturing NetExec output programmatically. You can test it right now without any compilation.
 
