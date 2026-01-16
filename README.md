@@ -190,7 +190,7 @@ The return code being 1 for --help is normal, argparse exits with code 1 after s
 
 ### If I Had More Time
 
-- Fix logger capture - Properly integrate capture mode into all logger methods
+- Path Independence - I would have worked on path independence.
 - Handle edge cases - Unicode paths, permission errors, etc.
 
 ### What I Learned
